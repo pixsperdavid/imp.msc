@@ -1,0 +1,8 @@
+#ifndef H_IMP_MSC_VERSION
+#define H_IMP_MSC_VERSION
+
+#define IMP_MSC_VERSION_MAJOR 1
+#define IMP_MSC_VERSION_MINOR 0
+#define IMP_MSC_VERSION_BUGFIX 0
+
+#endif
